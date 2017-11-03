@@ -224,4 +224,8 @@ input[type="submit"].special, input[type="reset"].special, input[type="button"].
     margin-bottom: 3% !important;
     margin-left: -40% !important;
 	}
+	
+	#banner .content {
+    margin-top: -180% !important;
+}
 }
