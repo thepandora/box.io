@@ -211,3 +211,17 @@ input[type="submit"].special, input[type="reset"].special, input[type="button"].
     vertical-align: middle;
     z-index: 1;
 }
+
+@media screen and (max-width: 736px){
+#banner {
+    padding: 0 !important;
+    /* height: auto; */
+    min-height: 0 !important;
+}
+	
+	img {
+		    width: 100% !important;
+    margin-bottom: 3% !important;
+    margin-left: -40% !important;
+	}
+}
