@@ -2927,16 +2927,7 @@
 			z-index: 20;
 		}
 
-		.spotlight:before {
-			background-image: url("images/overlay.png");
-			content: '';
-			display: block;
-			height: 100%;
-			left: 0;
-			top: 0;
-			width: 100%;
-		}
-
+		
 
 			.spotlight .image.main img {
 				position: relative;
