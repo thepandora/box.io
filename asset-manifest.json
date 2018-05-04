@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.13ab2033.css",
   "main.css.map": "static/css/main.13ab2033.css.map",
-  "main.js": "static/js/main.3517f3ec.js",
-  "main.js.map": "static/js/main.3517f3ec.js.map",
+  "main.js": "static/js/main.ae0d656b.js",
+  "main.js.map": "static/js/main.ae0d656b.js.map",
   "static\\media\\Roboto-Bold.ttf": "static/media/Roboto-Bold.ee7b96fa.ttf",
   "static\\media\\Roboto-Regular.ttf": "static/media/Roboto-Regular.3e1af3ef.ttf",
   "static\\media\\about2-logo.png": "static/media/about2-logo.2e114342.png",
@@ -19,5 +19,14 @@
   "static\\media\\react.png": "static/media/react.895c6f4c.png",
   "static\\media\\speaker_julian.png": "static/media/speaker_julian.47129a7c.png",
   "static\\media\\speaker_julian2.png": "static/media/speaker_julian2.68296329.png",
-  "static\\media\\speaker_julian3.png": "static/media/speaker_julian3.47e28adf.png"
+  "static\\media\\speaker_julian3.png": "static/media/speaker_julian3.47e28adf.png",
+  "static\\media\\ss.png": "static/media/ss.aa195a79.png",
+  "static\\media\\ss1.png": "static/media/ss1.72edcf3a.png",
+  "static\\media\\ss2.png": "static/media/ss2.149cff47.png",
+  "static\\media\\ss3.png": "static/media/ss3.732b8a84.png",
+  "static\\media\\ss4.png": "static/media/ss4.11ab2d58.png",
+  "static\\media\\ss5.png": "static/media/ss5.c0bf6f7f.png",
+  "static\\media\\ss6.png": "static/media/ss6.af3acb17.png",
+  "static\\media\\ss7.png": "static/media/ss7.e918e2c4.png",
+  "static\\media\\ss8.png": "static/media/ss8.ec8e2ee6.png"
 }
